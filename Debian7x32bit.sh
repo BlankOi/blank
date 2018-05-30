@@ -63,10 +63,10 @@ echo 'figlet -k "$HOSTNAME"' >> .bashrc
 echo 'echo -e "=============================="' >> .bashrc
 echo 'echo -e "Contact Us"' >> .bashrc
 echo 'echo -e "------------------------------"' >> .bashrc
-echo 'echo -e " Facebook: Doctype.Int"' >> .bashrc
-echo 'echo -e " Whatsapp: +60149541324"' >> .bashrc
-echo 'echo -e " Telegram: @Doctype"' >> .bashrc
-echo 'echo -e " Website: https://int-knowledge.my"' >> .bashrc
+echo 'echo -e " Facebook: Blank"' >> .bashrc
+echo 'echo -e " Whatsapp: Blank"' >> .bashrc
+echo 'echo -e " Telegram: Blank"' >> .bashrc
+echo 'echo -e " Website: Blank"' >> .bashrc
 echo 'echo -e "=============================="' >> .bashrc
 echo 'echo -e ""' >> .bashrc
 
@@ -207,5 +207,5 @@ rm -f /root/Debian7x32bit.sh
 echo "You need [reboot] your server to complete this setup."
 
 echo "###################################"
-echo "Int-Knowledge | Doctype"
+echo "Blank_oi | .........."
 echo "###################################"
